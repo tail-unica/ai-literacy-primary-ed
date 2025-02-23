@@ -18,8 +18,9 @@ They also engage with the "AI for the Oceans" activity to understand machine lea
 
 📂 **Materials**:
 - [Ice-Breaking Questionnaire](https://docs.google.com/document/d/1owcfoWoBHNeDOGpH1SIG3QqvBRKrFipb/edit)
-- [Slides](https://docs.google.com/presentation/d/1XRZ6YMcFMKF_KFvz2e5AymWDXNvxIhAd6E7Jpw0IUvs/edit#slide=id.p1)
-- [Source Code for Examples](https://drive.google.com/drive/u/0/folders/1j2-N5CP4qGpNffJpwHHzptZUgzxLIgtx)
+- [Guiding Slides](https://docs.google.com/presentation/d/1XRZ6YMcFMKF_KFvz2e5AymWDXNvxIhAd6E7Jpw0IUvs/edit#slide=id.p1)
+- [Examples for Computer Perception (Supermarket and Irrigation Systems)](https://drive.google.com/drive/u/0/folders/1j2-N5CP4qGpNffJpwHHzptZUgzxLIgtx)
+- [Exercise for Semi-Guided Exploration (AI for Oceans)](https://studio.code.org/s/oceans/lessons/1/levels/6?lang=en-US)
 
 ---
 
