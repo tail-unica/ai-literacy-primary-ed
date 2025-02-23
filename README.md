@@ -30,28 +30,32 @@ This module focuses on <strong>classification</strong>, teaching students how AI
 </p>
 
 📂 **Materials**:
-- [Slides](https://docs.google.com/presentation/d/1DkXZ7QGkqV-KOLSE0CHWqAU90F_TTBuLosNWGNP9gDs/edit#slide=id.p1)
+- [Guiding Slides](https://docs.google.com/presentation/d/1DkXZ7QGkqV-KOLSE0CHWqAU90F_TTBuLosNWGNP9gDs/edit#slide=id.p1)
 - [Exercise on Monster Family](https://docs.google.com/document/d/188sfirNdDgrtibxM2dDoH9fR8D1Ej0aj/edit)
 - [(Simplified) Exercise on Fish Classification](https://docs.google.com/document/d/1XxYbkIZwUIge5PUZCpjHDqMvwl7IIpXr/edit)
 
 ---
 
 ### **Module 3: Classification Representations** (2 hours)
-In this module, students expand on classification concepts by learning about various **representation models**. They use Euler-Venn diagrams, tables, and decision trees to represent classification processes. Activities include classifying mushrooms based on features and navigating a floor-based decision tree to reinforce logical reasoning and problem-solving skills.
+<p align="justify">
+This module explores <strong>structured classification</strong>, teaching students how AI models use rule-based decision-making to categorize objects. Through examples like classifying <strong>photos</strong> and <strong>fish species</strong>, students practice using multiple representational models, including <strong>Euler-Venn diagrams</strong>, <strong>tables</strong>, and <strong>decision trees</strong>. Hands-on activities reinforce classification principles, helping students understand the strengths and limitations of different models while reflecting on real-world implications.
+</p>
 
 📂 **Materials**:
-- [Slides](https://docs.google.com/presentation/d/1xe2plliVeaGEL86WOzcbrqus-pHKVnOj8IUj0nzLBtg/edit#slide=id.p1)
-- [Bella’s Photos](https://docs.google.com/document/d/12UFb-extXRpG9SifYo_cTwhByvA2-oy4/edit)
-- [Fish Classification](https://docs.google.com/document/d/1XNB8xgupmmrXDu2dSAmECXkV_yFYSr9f/edit)
+- [Guiding Slides](https://docs.google.com/presentation/d/1xe2plliVeaGEL86WOzcbrqus-pHKVnOj8IUj0nzLBtg/edit#slide=id.p1)
+- [Exercise on Representations through Photos Selection](https://docs.google.com/document/d/12UFb-extXRpG9SifYo_cTwhByvA2-oy4/edit)
+- [Exercise on Fish Classification](https://docs.google.com/document/d/1XNB8xgupmmrXDu2dSAmECXkV_yFYSr9f/edit)
 
 ---
 
 ### **Module 4: Final Assessment & Reflection** (2 hours)
-The final module is dedicated to evaluating students' learning outcomes and gathering feedback on their overall experience. It includes a **post-test** to assess understanding of AI and mathematical concepts, and a **satisfaction questionnaire** to capture students' engagement and perceptions of the learning path.
+<p align="justify">
+This final module focuses on evaluating students’ <strong>learning outcomes</strong> and gathering feedback on their experience. A <strong>satisfaction questionnaire</strong> assesses student engagement, enjoyment, and perceived difficulty, while open-ended questions capture qualitative insights. To measure learning effectiveness, a <strong>post-test</strong> with seven exercises evaluates students’ understanding of <strong>AI concepts</strong>, <strong>classification reasoning</strong>, and <strong>mathematical skills</strong>. 
+</p>
 
 📂 **Materials**:
-- [Post-Test](https://docs.google.com/document/d/11Rqs6F8gaqk-_sZWZVhZczyOlLJkjIaB/edit)
 - [Satisfaction Questionnaire](https://docs.google.com/document/d/1yXYmKlU03g_GD-TSjyjpEEvIXuFLmxH0-AeYSO5TDlM/edit?tab=t.0)
+- [Post-Test Questionnaire](https://docs.google.com/document/d/11Rqs6F8gaqk-_sZWZVhZczyOlLJkjIaB/edit)
 
 ---
 
