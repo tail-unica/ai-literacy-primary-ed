@@ -5,7 +5,11 @@ Given that the activities were delivered to children, all materials are currentl
 </p>
 
 ## 📌 Learning Path Structure
-The learning path is divided into **four modules**, each focusing on specific AI and mathematical concepts, reinforced through interactive activities and problem-solving exercises.
+<p align="justify">
+Our structured learning path, divided into **four modules**, aimed at introducing primary school students to key AI concepts while integrating foundational mathematical reasoning. 
+Grounded in **constructivism**, **constructionism**, and **spiral learning**, the approach progressively builds students' understanding by reinforcing prior knowledge and introducing new representational models.
+Using **learning-by-doing** and **learning-by-necessity** methodologies, students actively engage in experimentation and problem-solving. 
+</p>
 
 ### **Module 1: Introduction to AI** (2 hours)
 This module introduces students to basic AI concepts, distinguishing AI from human intelligence and emphasizing **data processing and rule-based decision-making**. 
