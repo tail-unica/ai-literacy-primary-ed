@@ -32,7 +32,7 @@ This module focuses on <strong>classification</strong>, teaching students how AI
 📂 **Materials**:
 - [Guiding Slides](https://docs.google.com/presentation/d/1DkXZ7QGkqV-KOLSE0CHWqAU90F_TTBuLosNWGNP9gDs/edit#slide=id.p1)
 - [Exercise on Monster Family](https://docs.google.com/document/d/188sfirNdDgrtibxM2dDoH9fR8D1Ej0aj/edit)
-- [(Simplified) Exercise on Fish Classification](https://docs.google.com/document/d/1XxYbkIZwUIge5PUZCpjHDqMvwl7IIpXr/edit)
+- [Simplified Exercise on Fish Classification](https://docs.google.com/document/d/1XxYbkIZwUIge5PUZCpjHDqMvwl7IIpXr/edit)
 
 
 ### **Module 3: Classification Representations** (2 hours)
@@ -43,7 +43,7 @@ This module explores <strong>structured classification</strong>, teaching studen
 📂 **Materials**:
 - [Guiding Slides](https://docs.google.com/presentation/d/1xe2plliVeaGEL86WOzcbrqus-pHKVnOj8IUj0nzLBtg/edit#slide=id.p1)
 - [Exercise on Representations through Photos Selection](https://docs.google.com/document/d/12UFb-extXRpG9SifYo_cTwhByvA2-oy4/edit)
-- [Exercise on Fish Classification](https://docs.google.com/document/d/1XNB8xgupmmrXDu2dSAmECXkV_yFYSr9f/edit)
+- [Exercise on Representations through Fish Classification](https://docs.google.com/document/d/1XNB8xgupmmrXDu2dSAmECXkV_yFYSr9f/edit)
 
 
 ### **Module 4: Final Assessment & Reflection** (2 hours)
