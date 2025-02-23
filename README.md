@@ -1,6 +1,8 @@
-# A Structured Unplugged Approach for Foundational AI Literacy in Primary Education
-This repository contains the materials and structure for the AI literacy learning path, designed to accompany the paper entitled **"A Structured Unplugged Approach for Foundational AI Literacy in Primary Education"** submitted for evaluation to **AIED 2025**. 
+# Foundational AI Literacy in Primary Education
+<p align="justify">
+This repository contains the materials and structure for the AI literacy learning path, designed to accompany the paper entitled <strong>"A Structured Unplugged Approach for Foundational AI Literacy in Primary Education"</strong> submitted for evaluation to <strong>AIED 2025</strong>. 
 Given that the activities were delivered to children, all materials are currently in the local language. Upon acceptance of the paper, we will also provide an English version.
+</p>
 
 ## 📌 Learning Path Structure
 The learning path is divided into **four modules**, each focusing on specific AI and mathematical concepts, reinforced through interactive activities and problem-solving exercises.
