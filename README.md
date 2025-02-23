@@ -25,13 +25,14 @@ This module introduces students to the foundations of <strong>CS</strong> and <s
 ---
 
 ### **Module 2: Classification Principles** (2 hours)
-This module focuses on **classification reasoning**, guiding students on how AI systems categorize objects based on data features. Through hands-on activities, students classify fictional monsters using observable attributes, refine their classification strategies, and explore the importance of multiple features in decision-making. They also learn about overfitting by testing their classification models on new data.
+<p align="justify">
+This module focuses on <strong>classification</strong>, teaching students how AI categorizes objects using predefined rules derived from data. Through hands-on activities, like classifying a fictional <strong>Monster family</strong>, students learn to identify features, develop rule-based models, and evaluate their accuracy. The session highlights challenges such as <strong>overfitting</strong> and emphasizes how AI classification systems require data-driven refinement for real-world applications.
+</p>
 
 📂 **Materials**:
 - [Slides](https://docs.google.com/presentation/d/1DkXZ7QGkqV-KOLSE0CHWqAU90F_TTBuLosNWGNP9gDs/edit#slide=id.p1)
-- [Zombus Activity](https://ai-leap.di.unito.it/)
-- [Zombus Handout](https://docs.google.com/document/d/188sfirNdDgrtibxM2dDoH9fR8D1Ej0aj/edit)
-- [Fish Classification (Day 2)](https://docs.google.com/document/d/1XxYbkIZwUIge5PUZCpjHDqMvwl7IIpXr/edit)
+- [Exercise on Monster Family](https://docs.google.com/document/d/188sfirNdDgrtibxM2dDoH9fR8D1Ej0aj/edit)
+- [(Simplified) Exercise on Fish Classification](https://docs.google.com/document/d/1XxYbkIZwUIge5PUZCpjHDqMvwl7IIpXr/edit)
 
 ---
 
