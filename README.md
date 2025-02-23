@@ -12,9 +12,9 @@ Using <strong>learning-by-doing</strong> and <strong>learning-by-necessity</stro
 </p>
 
 ### **Module 1: Introduction to AI** (2 hours)
-This module introduces students to basic AI concepts, distinguishing AI from human intelligence and emphasizing **data processing and rule-based decision-making**. 
-Students explore how computers perceive the world through data, learn the difference between data and information, and analyze examples like supermarket checkout systems and irrigation systems. 
-They also engage with the "AI for the Oceans" activity to understand machine learning basics, including training and testing models.
+<p align="justify">
+This module introduces students to the foundations of <strong>CS</strong> and <strong>AI</strong>, leading to how AI processes data through human-defined rules. Students explore real-world examples of <strong>computer perception</strong> and engage in <strong>hands-on semi-guided explorations</strong> to understand key concepts such as <strong>data labeling</strong>, <strong>training</strong>, and <strong>model evaluation</strong>. The module emphasizes AI’s limitations, helping students recognize that AI systems follow structured input-output rules rather than independent thinking.
+</p>
 
 📂 **Materials**:
 - [Ice-Breaking Questionnaire](https://docs.google.com/document/d/1owcfoWoBHNeDOGpH1SIG3QqvBRKrFipb/edit)
