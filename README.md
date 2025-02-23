@@ -22,7 +22,7 @@ This module introduces students to the foundations of <strong>CS</strong> and <s
 - [Examples for Computer Perception (Supermarket and Irrigation Systems)](https://drive.google.com/drive/u/0/folders/1j2-N5CP4qGpNffJpwHHzptZUgzxLIgtx)
 - [Exercise for Semi-Guided Exploration (AI for Oceans)](https://studio.code.org/s/oceans/lessons/1/levels/6?lang=en-US)
 
----
+
 
 ### **Module 2: Classification Principles** (2 hours)
 <p align="justify">
@@ -34,7 +34,6 @@ This module focuses on <strong>classification</strong>, teaching students how AI
 - [Exercise on Monster Family](https://docs.google.com/document/d/188sfirNdDgrtibxM2dDoH9fR8D1Ej0aj/edit)
 - [(Simplified) Exercise on Fish Classification](https://docs.google.com/document/d/1XxYbkIZwUIge5PUZCpjHDqMvwl7IIpXr/edit)
 
----
 
 ### **Module 3: Classification Representations** (2 hours)
 <p align="justify">
@@ -46,7 +45,6 @@ This module explores <strong>structured classification</strong>, teaching studen
 - [Exercise on Representations through Photos Selection](https://docs.google.com/document/d/12UFb-extXRpG9SifYo_cTwhByvA2-oy4/edit)
 - [Exercise on Fish Classification](https://docs.google.com/document/d/1XNB8xgupmmrXDu2dSAmECXkV_yFYSr9f/edit)
 
----
 
 ### **Module 4: Final Assessment & Reflection** (2 hours)
 <p align="justify">
@@ -56,8 +54,6 @@ This final module focuses on evaluating students’ <strong>learning outcomes</s
 📂 **Materials**:
 - [Satisfaction Questionnaire](https://docs.google.com/document/d/1yXYmKlU03g_GD-TSjyjpEEvIXuFLmxH0-AeYSO5TDlM/edit?tab=t.0)
 - [Post-Test Questionnaire](https://docs.google.com/document/d/11Rqs6F8gaqk-_sZWZVhZczyOlLJkjIaB/edit)
-
----
 
 ## 🔒 Confidentiality Notice
 The materials in this repository are shared for the purpose of peer review and academic evaluation related to the **AIED 2025** submission. Please do not distribute, copy, or use these materials for purposes other than reviewing the associated paper. Unauthorized use or sharing is strictly prohibited.
