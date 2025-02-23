@@ -56,4 +56,4 @@ This final module focuses on evaluating students’ <strong>learning outcomes</s
 - [Post-Test Questionnaire](https://docs.google.com/document/d/11Rqs6F8gaqk-_sZWZVhZczyOlLJkjIaB/edit)
 
 ## 🔒 Confidentiality Notice
-The materials in this repository are shared for the purpose of peer review and academic evaluation related to the **AIED 2025** submission. Please do not distribute, copy, or use these materials for purposes other than reviewing the associated paper. Unauthorized use or sharing is strictly prohibited.
+The materials are shared for the purpose of peer review related to the **AIED 2025** submission. Please do not distribute, copy, or use these materials for purposes other than reviewing the associated paper. Unauthorized use or sharing is strictly prohibited.
