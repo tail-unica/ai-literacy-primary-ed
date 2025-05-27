@@ -55,7 +55,7 @@ This final module focuses on evaluating students’ <strong>learning outcomes</s
 - [Satisfaction Questionnaire](https://docs.google.com/document/d/1yXYmKlU03g_GD-TSjyjpEEvIXuFLmxH0-AeYSO5TDlM/edit?tab=t.0)
 - [Post-Test Questionnaire](https://docs.google.com/document/d/11Rqs6F8gaqk-_sZWZVhZczyOlLJkjIaB/edit)
 
-## 📚 Citations
+## 📚 Acknowledgement
 If you re-use this material in your work, please cite our paper:
 
 ```
