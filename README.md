@@ -1,6 +1,6 @@
 # Foundational AI Literacy in Primary Education
 <p align="justify">
-This repository contains the materials and structure for the AI literacy learning path, designed to accompany the paper entitled <strong>"A Structured Unplugged Approach for Foundational AI Literacy in Primary Education"</strong> submitted for evaluation to <strong>AIED 2025</strong>. 
+This repository contains the materials and structure for the AI literacy learning path, designed to accompany the paper entitled <strong>"A Structured Unplugged Approach for Foundational AI Literacy in Primary Education"</strong>. 
 Given that the activities were delivered to children, all materials were currently in the local language. To enable reproducibility, we provide here the English version.
 </p>
 
@@ -55,5 +55,11 @@ This final module focuses on evaluating students’ <strong>learning outcomes</s
 - [Satisfaction Questionnaire](https://docs.google.com/document/d/1yXYmKlU03g_GD-TSjyjpEEvIXuFLmxH0-AeYSO5TDlM/edit?tab=t.0)
 - [Post-Test Questionnaire](https://docs.google.com/document/d/11Rqs6F8gaqk-_sZWZVhZczyOlLJkjIaB/edit)
 
-## 🔒 Confidentiality Notice
-The materials are shared for the purpose of peer review related to the **AIED 2025** submission. Please do not distribute, copy, or use these materials for purposes other than reviewing the associated paper. Unauthorized use or sharing is strictly prohibited.
+## 📚 Citations
+If you re-use this material in your work, please cite our paper:
+
+```
+Carrisi, M. C., Marras, M., & Vergallo, S. (2025)
+A Structured Unplugged Approach for Foundational AI Literacy in Primary Education
+In: arXiv preprint arXiv:XXXX.XXXXX.
+```
