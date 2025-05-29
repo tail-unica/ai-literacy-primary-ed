@@ -61,5 +61,5 @@ If you re-use this material in your work, please cite our paper:
 ```
 Carrisi, M. C., Marras, M., & Vergallo, S. (2025)
 A Structured Unplugged Approach for Foundational AI Literacy in Primary Education
-In: arXiv preprint arXiv:XXXX.XXXXX.
+In: arXiv preprint arXiv:[2505.21398](http://arxiv.org/abs/2505.21398)
 ```
