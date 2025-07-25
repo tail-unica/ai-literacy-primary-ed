@@ -1,4 +1,4 @@
-# Percorso di Alfabetizzazione all'Intelligenza Artificiale nella Scuola Primaria
+# Alfabetizzazione all'Intelligenza Artificiale nella Scuola Primaria
 <p align="justify">
 Questa pagina contiene i materiali e la struttura del percorso di alfabetizzazione all’intelligenza artificiale, progettato per accompagnare l’articolo intitolato <strong>"A Structured Unplugged Approach for Foundational AI Literacy in Primary Education"</strong>. 
 </p>
