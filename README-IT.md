@@ -16,8 +16,8 @@ Questo modulo introduce gli studenti ai fondamenti dell’<strong>informatica</s
 </p>
 
 📂 **Materiali**:
-- [Questionario di Ice-Breaking](https://docs.google.com/document/d/1owcfoWoBHNeDOGpH1SIG3QqvBRKrFipb/edit)
-- [Slide Guida](https://docs.google.com/presentation/d/1XRZ6YMcFMKF_KFvz2e5AymWDXNvxIhAd6E7Jpw0IUvs/edit#slide=id.p1)
+- [Questionario di Ice-Breaking](https://docs.google.com/document/d/1ml0Gnu6cyeRcnYYQrwcqffxt9cBclmj9) 
+- [Slide Guida](https://docs.google.com/presentation/d/1PMBEBaYQTvM1ev8pJoKKKl0dF-5fd_NC) 
 - [Esempi di Percezione Computazionale (Supermercato e Sistemi di Irrigazione)](https://drive.google.com/drive/u/0/folders/1j2-N5CP4qGpNffJpwHHzptZUgzxLIgtx)
 - [Esercizio di Esplorazione Semi-Guidata (AI for Oceans)](https://studio.code.org/s/oceans/lessons/1/levels/6?lang=en-US)
 
@@ -29,9 +29,9 @@ Questo modulo si concentra sulla <strong>classificazione</strong>, insegnando ag
 </p>
 
 📂 **Materiali**:
-- [Slide Guida](https://docs.google.com/presentation/d/1DkXZ7QGkqV-KOLSE0CHWqAU90F_TTBuLosNWGNP9gDs/edit#slide=id.p1)
-- [Esercizio sulla Famiglia di Mostri](https://docs.google.com/document/d/188sfirNdDgrtibxM2dDoH9fR8D1Ej0aj/edit)
-- [Esercizio Semplificato sulla Classificazione dei Pesci](https://docs.google.com/document/d/1XxYbkIZwUIge5PUZCpjHDqMvwl7IIpXr/edit)
+- [Slide Guida](https://docs.google.com/presentation/d/1QFPdS0x7jgjUYzTFRb3ZFevmfqzBojsg) 
+- [Esercizio sulla Famiglia di Mostri](https://docs.google.com/document/d/1Izl1R2vPwHfmdeNsqKjB-e79AIay4IJM) 
+- [Esercizio Semplificato sulla Classificazione dei Pesci](https://docs.google.com/document/d/1El3dJ0D6AnPv7f80JpBV2sSTITsY55IF) 
 
 
 ### **Modulo 3: Rappresentazioni della Classificazione** (2 ore)
@@ -40,9 +40,9 @@ Questo modulo esplora la <strong>classificazione strutturata</strong>, insegnand
 </p>
 
 📂 **Materiali**:
-- [Slide Guida](https://docs.google.com/presentation/d/1xe2plliVeaGEL86WOzcbrqus-pHKVnOj8IUj0nzLBtg/edit#slide=id.p1)
-- [Esercizio sulle Rappresentazioni attraverso la Selezione di Foto](https://docs.google.com/document/d/12UFb-extXRpG9SifYo_cTwhByvA2-oy4/edit)
-- [Esercizio sulle Rappresentazioni attraverso la Classificazione dei Pesci](https://docs.google.com/document/d/1XNB8xgupmmrXDu2dSAmECXkV_yFYSr9f/edit)
+- [Slide Guida](https://docs.google.com/presentation/d/1NjtGhJDVo93ASjNWRkgLo7-2s3hYrj6L) 
+- [Esercizio sulle Rappresentazioni attraverso la Selezione di Foto](https://docs.google.com/document/d/1crsv0rpDlt_uN4aIS7vDJ2ys4cS0CEBG) 
+- [Esercizio sulle Rappresentazioni attraverso la Classificazione dei Pesci](https://docs.google.com/document/d/1nbWSlxUw5_jXndHD3rnzJM7coAF95L7C) 
 
 
 ### **Modulo 4: Valutazione Finale e Riflessione** (2 ore)
@@ -51,8 +51,8 @@ Questo modulo finale si concentra sulla valutazione dei <strong>risultati di app
 </p>
 
 📂 **Materiali**:
-- [Questionario di Soddisfazione](https://docs.google.com/document/d/1yXYmKlU03g_GD-TSjyjpEEvIXuFLmxH0-AeYSO5TDlM/edit?tab=t.0)
-- [Questionario Post-Test](https://docs.google.com/document/d/11Rqs6F8gaqk-_sZWZVhZczyOlLJkjIaB/edit)
+- [Questionario di Soddisfazione](https://docs.google.com/document/d/1_4JLOihTYoXBmOiU-AqiTEEy8SaZm_If)
+- [Questionario Post-Test](https://docs.google.com/document/d/1S7p2MJsBM_S8TCFfnEPgBS7FlzAF6fGl) 
 
 ## 📚 Riconoscimenti
 Se riutilizzi questo materiale nel tuo lavoro, ti preghiamo di citare il nostro articolo:
