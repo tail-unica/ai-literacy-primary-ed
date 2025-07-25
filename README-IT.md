@@ -1,18 +1,18 @@
-# Alfabetizzazione all'Intelligenza Artificiale nella Scuola Primaria
+# Introduzione al Machine Learning nella Scuola Primaria
 <p align="justify">
-Questa pagina contiene i materiali e la struttura del percorso di alfabetizzazione all’intelligenza artificiale, progettato per accompagnare l’articolo intitolato <strong>"A Structured Unplugged Approach for Foundational AI Literacy in Primary Education"</strong>. 
+Questa pagina contiene i materiali e la struttura del percorso di alfabetizzazione al machine learning, progettato per accompagnare il laboratorio intitolato <strong>"Introduzione al Machine Learning alla Scuola Primaria"</strong>. 
 </p>
 
 ## 📌 Struttura del Percorso di Apprendimento
 <p align="justify">
-Il nostro percorso strutturato di apprendimento, suddiviso in <strong>quattro moduli</strong>, mira a introdurre gli studenti della scuola primaria ai concetti chiave dell’intelligenza artificiale, integrando il ragionamento matematico di base. 
+Il nostro percorso strutturato di apprendimento, suddiviso in <strong>quattro moduli</strong>, mira a introdurre gli studenti della scuola primaria ai concetti chiave del machine learning, integrando il ragionamento matematico di base. 
 Basato su <strong>costruttivismo</strong>, <strong>costruzionismo</strong> e <strong>apprendimento a spirale</strong>, l’approccio costruisce progressivamente la comprensione degli studenti rafforzando le conoscenze pregresse e introducendo nuovi modelli rappresentativi.
 Attraverso metodologie di <strong>learning-by-doing</strong> e <strong>learning-by-necessity</strong>, gli studenti sono coinvolti attivamente in sperimentazioni e risoluzione di problemi.
 </p>
 
-### **Modulo 1: Introduzione all’Intelligenza Artificiale** (2 ore)
+### **Modulo 1: Introduzione al Machine Learning** (2 ore)
 <p align="justify">
-Questo modulo introduce gli studenti ai fondamenti dell’<strong>informatica</strong> e dell’<strong>intelligenza artificiale</strong>, mostrando come l’intelligenza artificiale elabora i dati attraverso regole definite dall’uomo. Gli studenti esplorano esempi reali di <strong>percezione computazionale</strong> e partecipano a <strong>esplorazioni semi-guidate pratiche</strong> per comprendere concetti chiave come <strong>etichettatura dei dati</strong>, <strong>addestramento</strong> e <strong>valutazione dei modelli</strong>. Il modulo pone l’accento sui limiti dell’intelligenza artificiale, aiutando gli studenti a riconoscere che i sistemi di intelligenza artificiale seguono regole input-output strutturate e non pensano in modo autonomo.
+Questo modulo introduce gli studenti ai fondamenti dell’<strong>informatica</strong> e dell’<strong>machine learning</strong>, mostrando come il machine learning elabora i dati attraverso regole definite dall’uomo. Gli studenti esplorano esempi reali di <strong>percezione computazionale</strong> e partecipano a <strong>esplorazioni semi-guidate pratiche</strong> per comprendere concetti chiave come <strong>etichettatura dei dati</strong>, <strong>addestramento</strong> e <strong>valutazione dei modelli</strong>. Il modulo pone l’accento sui limiti del machine learning, aiutando gli studenti a riconoscere che i sistemi di machine learning seguono regole input-output strutturate e non pensano in modo autonomo.
 </p>
 
 📂 **Materiali**:
@@ -25,7 +25,7 @@ Questo modulo introduce gli studenti ai fondamenti dell’<strong>informatica</s
 
 ### **Modulo 2: Principi di Classificazione** (2 ore)
 <p align="justify">
-Questo modulo si concentra sulla <strong>classificazione</strong>, insegnando agli studenti come l’intelligenza artificiale categorizza gli oggetti utilizzando regole predefinite derivate dai dati. Attraverso attività pratiche, come la classificazione di una <strong>famiglia di mostri</strong> immaginaria, gli studenti imparano a identificare caratteristiche, sviluppare modelli basati su regole e valutarne l’accuratezza. La sessione evidenzia sfide come l’<strong>overfitting</strong> e sottolinea come i sistemi di classificazione dell’intelligenza artificiale richiedano un affinamento guidato dai dati per applicazioni reali.
+Questo modulo si concentra sulla <strong>classificazione</strong>, insegnando agli studenti come il machine learning categorizza gli oggetti utilizzando regole predefinite derivate dai dati. Attraverso attività pratiche, come la classificazione di una <strong>famiglia di mostri</strong> immaginaria, gli studenti imparano a identificare caratteristiche, sviluppare modelli basati su regole e valutarne l’accuratezza. La sessione evidenzia sfide come l’<strong>overfitting</strong> e sottolinea come i sistemi di classificazione del machine learning richiedano un affinamento guidato dai dati per applicazioni reali.
 </p>
 
 📂 **Materiali**:
@@ -36,7 +36,7 @@ Questo modulo si concentra sulla <strong>classificazione</strong>, insegnando ag
 
 ### **Modulo 3: Rappresentazioni della Classificazione** (2 ore)
 <p align="justify">
-Questo modulo esplora la <strong>classificazione strutturata</strong>, insegnando agli studenti come i modelli di intelligenza artificiale utilizzino decisioni basate su regole per categorizzare oggetti. Attraverso esempi come la classificazione di <strong>foto</strong> e <strong>specie di pesci</strong>, gli studenti esercitano l’uso di diversi modelli rappresentativi, tra cui <strong>diagrammi di Eulero-Venn</strong>, <strong>tabelle</strong> e <strong>alberi decisionali</strong>. Le attività pratiche rafforzano i principi della classificazione, aiutando gli studenti a comprendere i punti di forza e i limiti dei vari modelli e a riflettere sulle implicazioni reali.
+Questo modulo esplora la <strong>classificazione strutturata</strong>, insegnando agli studenti come i modelli di machine learning utilizzino decisioni basate su regole per categorizzare oggetti. Attraverso esempi come la classificazione di <strong>foto</strong> e <strong>specie di pesci</strong>, gli studenti esercitano l’uso di diversi modelli rappresentativi, tra cui <strong>diagrammi di Eulero-Venn</strong>, <strong>tabelle</strong> e <strong>alberi decisionali</strong>. Le attività pratiche rafforzano i principi della classificazione, aiutando gli studenti a comprendere i punti di forza e i limiti dei vari modelli e a riflettere sulle implicazioni reali.
 </p>
 
 📂 **Materiali**:
@@ -47,7 +47,7 @@ Questo modulo esplora la <strong>classificazione strutturata</strong>, insegnand
 
 ### **Modulo 4: Valutazione Finale e Riflessione** (2 ore)
 <p align="justify">
-Questo modulo finale si concentra sulla valutazione dei <strong>risultati di apprendimento</strong> degli studenti e sulla raccolta di riscontri sulla loro esperienza. Un <strong>questionario di soddisfazione</strong> misura il coinvolgimento, il divertimento e la difficoltà percepita dagli studenti, mentre domande aperte raccolgono spunti qualitativi. Per valutare l’efficacia dell’apprendimento, un <strong>post-test</strong> con sette esercizi misura la comprensione degli studenti dei <strong>concetti di intelligenza artificiale</strong>, del <strong>ragionamento classificatorio</strong> e delle <strong>competenze matematiche</strong>.
+Questo modulo finale si concentra sulla valutazione dei <strong>risultati di apprendimento</strong> degli studenti e sulla raccolta di riscontri sulla loro esperienza. Un <strong>questionario di soddisfazione</strong> misura il coinvolgimento, il divertimento e la difficoltà percepita dagli studenti, mentre domande aperte raccolgono spunti qualitativi. Per valutare l’efficacia dell’apprendimento, un <strong>post-test</strong> con sette esercizi misura la comprensione degli studenti dei <strong>concetti di machine learning</strong>, del <strong>ragionamento classificatorio</strong> e delle <strong>competenze matematiche</strong>.
 </p>
 
 📂 **Materiali**:
