@@ -12,7 +12,7 @@ Attraverso metodologie di <strong>learning-by-doing</strong> e <strong>learning-
 
 ### **Modulo 1: Introduzione al Machine Learning** (2 ore)
 <p align="justify">
-Questo modulo introduce gli studenti ai fondamenti dell’<strong>informatica</strong> e dell’<strong>machine learning</strong>, mostrando come il machine learning elabora i dati attraverso regole definite dall’uomo. Gli studenti esplorano esempi reali di <strong>percezione computazionale</strong> e partecipano a <strong>esplorazioni semi-guidate pratiche</strong> per comprendere concetti chiave come <strong>etichettatura dei dati</strong>, <strong>addestramento</strong> e <strong>valutazione dei modelli</strong>. Il modulo pone l’accento sui limiti del machine learning, aiutando gli studenti a riconoscere che i sistemi di machine learning seguono regole input-output strutturate e non pensano in modo autonomo.
+Questo modulo introduce gli studenti ai fondamenti dell’<strong>informatica</strong> e del <strong>machine learning</strong>, mostrando come il machine learning elabora i dati attraverso regole definite dall’uomo. Gli studenti esplorano esempi reali di <strong>percezione computazionale</strong> e partecipano a <strong>esplorazioni semi-guidate pratiche</strong> per comprendere concetti chiave come <strong>etichettatura dei dati</strong>, <strong>addestramento</strong> e <strong>valutazione dei modelli</strong>. Il modulo pone l’accento sui limiti del machine learning, aiutando gli studenti a riconoscere che i sistemi di machine learning seguono regole input-output strutturate e non pensano in modo autonomo.
 </p>
 
 📂 **Materiali**:
@@ -30,7 +30,7 @@ Questo modulo si concentra sulla <strong>classificazione</strong>, insegnando ag
 
 📂 **Materiali**:
 - [Slide Guida](https://docs.google.com/presentation/d/1QFPdS0x7jgjUYzTFRb3ZFevmfqzBojsg) 
-- [Esercizio sulla Famiglia di Mostri](https://docs.google.com/document/d/1Izl1R2vPwHfmdeNsqKjB-e79AIay4IJM) 
+- [Esercizio sulla Famiglia di Mostri](https://docs.google.com/document/d/1Izl1R2vPwHfmdeNsqKjB-e79AIay4IJM) [1]
 - [Esercizio Semplificato sulla Classificazione dei Pesci](https://docs.google.com/document/d/1El3dJ0D6AnPv7f80JpBV2sSTITsY55IF) 
 
 
@@ -41,7 +41,7 @@ Questo modulo esplora la <strong>classificazione strutturata</strong>, insegnand
 
 📂 **Materiali**:
 - [Slide Guida](https://docs.google.com/presentation/d/1NjtGhJDVo93ASjNWRkgLo7-2s3hYrj6L) 
-- [Esercizio sulle Rappresentazioni attraverso la Selezione di Foto](https://docs.google.com/document/d/1crsv0rpDlt_uN4aIS7vDJ2ys4cS0CEBG) 
+- [Esercizio sulle Rappresentazioni attraverso la Selezione di Foto](https://docs.google.com/document/d/1crsv0rpDlt_uN4aIS7vDJ2ys4cS0CEBG) [2]
 - [Esercizio sulle Rappresentazioni attraverso la Classificazione dei Pesci](https://docs.google.com/document/d/1nbWSlxUw5_jXndHD3rnzJM7coAF95L7C) 
 
 
@@ -62,3 +62,6 @@ Carrisi, M. C., Marras, M., & Vergallo, S. (2025)
 A Structured Unplugged Approach for Foundational AI Literacy in Primary Education
 In: arXiv preprint arXiv:[2505.21398](http://arxiv.org/abs/2505.21398)
 ```
+## Ulteriori Riferimenti Bibliografici
+1. Baldoni, M., Baroglio, C., Bucciarelli, M., Micalizio, R., Gandolfi, E., Ianì, F., ... & Capecchi, S. (2024, April). Thinking Strategies Training to Support the Development of Machine Learning Understanding. A study targeting fifth-grade children. In Proceedings of the 2024 9th International Conference on Information and Education Innovations (pp. 85-92).
+2. Bebras Italia. (s.d.). Bebras dell’informatica – Quesiti d’esempio. Recuperato da https://bebras.it/lib/libretto‑esempi.pdf.
