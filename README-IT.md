@@ -57,9 +57,7 @@ Questo modulo finale si concentra sulla valutazione dei <strong>risultati di app
 ## 📚 Riconoscimenti
 Se riutilizzi questo materiale nel tuo lavoro, ti preghiamo di citare il nostro articolo:
 
-```
 Carrisi, M. C., Marras, M., & Vergallo, S. (2025). A Structured Unplugged Approach for Foundational AI Literacy in Primary Education. arXiv preprint arXiv:2505.21398.
-```
 
 ## 🧾 Ulteriori Riferimenti Bibliografici
 1. Baldoni, M., Baroglio, C., Bucciarelli, M., Micalizio, R., Gandolfi, E., Ianì, F., ... & Capecchi, S. (2024, April). Thinking Strategies Training to Support the Development of Machine Learning Understanding. A study targeting fifth-grade children. In Proceedings of the 2024 9th International Conference on Information and Education Innovations (pp. 85-92).
