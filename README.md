@@ -31,7 +31,7 @@ This module focuses on <strong>classification</strong>, teaching students how AI
 
 📂 **Materials**:
 - [Guiding Slides](https://docs.google.com/presentation/d/1DkXZ7QGkqV-KOLSE0CHWqAU90F_TTBuLosNWGNP9gDs/edit#slide=id.p1)
-- [Exercise on Monster Family](https://docs.google.com/document/d/188sfirNdDgrtibxM2dDoH9fR8D1Ej0aj/edit)
+- [Exercise on Monster Family](https://docs.google.com/document/d/188sfirNdDgrtibxM2dDoH9fR8D1Ej0aj/edit) [1]
 - [Simplified Exercise on Fish Classification](https://docs.google.com/document/d/1XxYbkIZwUIge5PUZCpjHDqMvwl7IIpXr/edit)
 
 
@@ -42,7 +42,7 @@ This module explores <strong>structured classification</strong>, teaching studen
 
 📂 **Materials**:
 - [Guiding Slides](https://docs.google.com/presentation/d/1xe2plliVeaGEL86WOzcbrqus-pHKVnOj8IUj0nzLBtg/edit#slide=id.p1)
-- [Exercise on Representations through Photos Selection](https://docs.google.com/document/d/12UFb-extXRpG9SifYo_cTwhByvA2-oy4/edit)
+- [Exercise on Representations through Photos Selection](https://docs.google.com/document/d/12UFb-extXRpG9SifYo_cTwhByvA2-oy4/edit) [2]
 - [Exercise on Representations through Fish Classification](https://docs.google.com/document/d/1XNB8xgupmmrXDu2dSAmECXkV_yFYSr9f/edit)
 
 
@@ -58,8 +58,8 @@ This final module focuses on evaluating students’ <strong>learning outcomes</s
 ## 📚 Acknowledgement
 If you re-use this material in your work, please cite our paper:
 
-```
-Carrisi, M. C., Marras, M., & Vergallo, S. (2025)
-A Structured Unplugged Approach for Foundational AI Literacy in Primary Education
-In: arXiv preprint arXiv:[2505.21398](http://arxiv.org/abs/2505.21398)
-```
+- Carrisi, M. C., Marras, M., & Vergallo, S. (2025). A Structured Unplugged Approach for Foundational AI Literacy in Primary Education. arXiv preprint arXiv:2505.21398.
+
+## 🧾 Bibliographic References
+1. Baldoni, M., Baroglio, C., Bucciarelli, M., Micalizio, R., Gandolfi, E., Ianì, F., ... & Capecchi, S. (2024, April). Thinking Strategies Training to Support the Development of Machine Learning Understanding. A study targeting fifth-grade children. In Proceedings of the 2024 9th International Conference on Information and Education Innovations (pp. 85-92).
+2. Bebras Italia. (s.d.). Bebras dell’informatica – Quesiti d’esempio. Recuperato da https://bebras.it/lib/libretto‑esempi.pdf.
