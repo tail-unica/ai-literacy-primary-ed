@@ -59,6 +59,6 @@ Se riutilizzi questo materiale nel tuo lavoro, ti preghiamo di citare il nostro 
 
 - Carrisi, M. C., Marras, M., & Vergallo, S. (2025). A Structured Unplugged Approach for Foundational AI Literacy in Primary Education. arXiv preprint arXiv:2505.21398.
 
-## 🧾 Ulteriori Riferimenti Bibliografici
+## 🧾 Riferimenti Bibliografici
 1. Baldoni, M., Baroglio, C., Bucciarelli, M., Micalizio, R., Gandolfi, E., Ianì, F., ... & Capecchi, S. (2024, April). Thinking Strategies Training to Support the Development of Machine Learning Understanding. A study targeting fifth-grade children. In Proceedings of the 2024 9th International Conference on Information and Education Innovations (pp. 85-92).
 2. Bebras Italia. (s.d.). Bebras dell’informatica – Quesiti d’esempio. Recuperato da https://bebras.it/lib/libretto‑esempi.pdf.
